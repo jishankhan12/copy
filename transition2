@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="transition.css"/>
+</head>
+<body><!--
+    <div>
+        <h1>heading</h1>
+        <button>click me</button>
+    </div>
+    <div id="opacity">
+        <h1>heading</h1>
+        <button>click me</button>
+
+    </div>
+
+
+
+    <div>
+
+    </div> 
+
+<section>
+<div id="one">1</div>
+<div id="two">2</div>
+<div id="three">3</div>
+<div id="four">4</div>
+<div id="five">5</div>
+<div id="six">6</div>
+
+</section>
+
+<div id ="one">1
+</div>
+
+
+
+<div>
+    
+</div> 
+
+
+
+<div class="card">
+    <img src="IRONMAN.JPEG" alt="man"/>
+    <div class="desc">
+        <h3>zeeshan khan</h3>
+        <p>data analyst</p>
+    </div>
+
+</div>
+
+<div class="card">
+    <img src="IRONMAN.JPEG" alt="woman"/>
+    <div class="desc">
+        <h3>neha sharma</h3>
+        <p>software engineer</p>
+    </div>
+
+</div>
+
+
+<section>
+    <h2>static demo</h2>
+    <div></div>
+    <div id="static"></div>
+</section>
+<section>
+    <h2>Relative demo</h2>
+    <div></div>
+    <div id="relative"></div>
+</section>
+<section>
+    <h2>Absolute demo</h2>
+    <div></div>
+    <div id="absolute"></div>
+</section>
+<section>
+    <h2>fixed demo</h2>
+    <div></div>
+    <div id="fixed"></div>
+</section>                                          day 4 
+
+
+
+<h1>flexbox plyground</h1>
+<div id="container">
+    <div style="background-color: aqua;">aqua</div>
+    <div style="background-color: blue;" id="blue">aqua</div>
+    <div style="background-color: green;">aqua</div>
+    <div style="background-color: yellow;">aqua</div>
+    <div style="background-color: rebeccapurple;" >aqua</div>
+    <div style="background-color: red;" id="red">aqua</div>
+    <div style="background-color: orange;">aqua</div>
+    
+</div> -->
+
+</body>
+</html>
